@@ -1,0 +1,9 @@
+{
+	"name": "tkcharandatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b1d67c63-29a6-4e6a-9435-c26125bb7b2e",
+		"tenantId": "cdcded95-5891-47bb-b17d-884afd7a7016"
+	}
+}
