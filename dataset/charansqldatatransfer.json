@@ -1,0 +1,12 @@
+{
+	"name": "charansqldatatransfer",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "tkcharansql",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
