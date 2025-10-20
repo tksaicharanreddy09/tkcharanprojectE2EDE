@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "tkcharandatafactory"
+		},
+		"tkcharanadls_accountKey": {
+			"value": ""
+		},
+		"tkcharansql_password": {
+			"value": ""
+		},
+		"tkcharanadls_properties_typeProperties_url": {
+			"value": "https://tkcharanstorageaccount.dfs.core.windows.net/"
+		},
+		"tkcharansql_properties_typeProperties_server": {
+			"value": "tkcharanserver.database.windows.net"
+		},
+		"tkcharansql_properties_typeProperties_database": {
+			"value": "tkcharandatabase"
+		},
+		"tkcharansql_properties_typeProperties_userName": {
+			"value": "tkcharanserver2"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
